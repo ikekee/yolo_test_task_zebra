@@ -1,0 +1,8 @@
+Train: Train.txt
+names:
+  0: teapot
+  1: teacup
+  2: salad
+  3: second dish
+  4: soup
+path: .
