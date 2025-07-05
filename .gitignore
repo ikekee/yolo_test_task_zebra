@@ -107,9 +107,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# folders with data
-data/
-
 # linter files
 ruff.toml
 
